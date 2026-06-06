@@ -227,3 +227,7 @@ $RECYCLE.BIN/
 *.sql
 current_schema.txt
 extract.py
+cohort_main-schema_latest.sql
+etc/secrets/cohort_main-schema_latest.sql
+etc/secrets/*.sql
+etc
